@@ -165,7 +165,6 @@
             },
             "caching": "ReadWrite",
             "createOption": "FromImage"
-          }
         },
         "dataDisks": [
         {
@@ -177,7 +176,8 @@
           },
           "createOption": "Empty"  
         }
-        ],
+        ]
+      },
         "networkProfile": {
           "networkInterfaces": [
             {
